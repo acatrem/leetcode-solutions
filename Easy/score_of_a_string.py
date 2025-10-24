@@ -17,3 +17,7 @@ def scoreS(str):
 s = input("s = ")
 
 scoreS(s)
+
+
+
+    
